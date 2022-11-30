@@ -28,7 +28,7 @@ section{
 .banner{
     position: relative;
     min-height: 100vh;
-    background-image: linear-gradient(rgba(0, 0, 0, 0.5), rgba(0, 0, 0, 0.5)), url(assets/banner.jpg);
+    background-image: linear-gradient(rgba(0, 0, 0, 0.5), rgba(0, 0, 0, 0.5)), url(assets/5.png);
     background-size: cover;
     background-position: right;
     display: flex;
